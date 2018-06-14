@@ -1,4 +1,4 @@
-# Neural coref v2.0 - THIS IS THE NEXT GENERATION OF GOOD STUFF
+# Neural coref v2.0 - THIS IS NICE
 
 State-of-the-art coreference resolution library using neural nets and spaCy. [Try it online !](https://huggingface.co/coref/)
 ![Neuralcoref demo](https://huggingface.co/coref/assets/thumbnail-large.png)
